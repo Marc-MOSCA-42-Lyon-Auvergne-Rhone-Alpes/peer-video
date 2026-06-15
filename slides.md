@@ -2,16 +2,75 @@
 theme: default
 title: Rapport de stage - Alès Agglomération
 transition: slide-left
-src: ./pages/introduction.md
+layout: cover
 ---
 
----
-src: ./pages/alesagglo.md
----
+# Rapport de stage
+
+Alès Agglomération - Marc MOSCA
 
 ---
 
-# Fonctionnement de la plateforme
+# Alès Agglomération - Service communication
+
+Collectivité territoriale regroupant 71 communes
+
+<br>
+
+<div class="grid grid-cols-2 gap-10">
+<div>
+
+### Mission
+
+Informer les habitants du territoire à travers différents supports de communication.
+
+<br>
+
+### Support principal
+
+- Journal de l'agglomération
+- Site internet & Application mobile
+- Réseaux sociaux
+
+</div>
+
+<div>
+
+### Besoin
+
+Collecter les informations provenant des différentes communes :
+
+* événements
+* manifestations
+* activités locales
+
+</div>
+</div>
+
+---
+
+# Ma mission principale
+
+Migrer la plateforme de Java JEE vers Symfony
+
+<br>
+
+<div class="grid grid-cols-2 gap-10">
+<div>
+
+### Objectifs
+
+- Moderniser l'application
+- Faciliter sa maintenance
+- Répondre aux besoins actuels des utilisateurs
+
+</div>
+
+<div>
+
+### Fonctionnement
+
+<br>
 
 ```mermaid
 flowchart LR
@@ -24,27 +83,16 @@ B --> C[Rédaction]
 C --> D[Journal de l'agglomération]
 ```
 
-### Objectif
-
-Centraliser les informations avant leur publication dans le journal.
-
----
-
-# Ma mission
-
-## Recréer entièrement la plateforme sous Symfony
-
-### Objectifs
-
-* Moderniser l'application
-* Faciliter sa maintenance
-* Répondre aux besoins actuels des utilisateurs
+</div>
+</div>
 
 ---
 
-# Une contrainte majeure
+# Un projet avec des contraintes particulières
 
-## Aucun accès à l'application existante
+Aucun accès à l'application existante
+
+<br>
 
 <div class="grid grid-cols-2 gap-8">
 
@@ -76,7 +124,11 @@ Centraliser les informations avant leur publication dans le journal.
 
 ---
 
-# Ma démarche
+# Analyse et conception
+
+La démarche que j'ai utilisée pour réaliser le projet
+
+<br>
 
 ```mermaid
 flowchart LR
@@ -91,14 +143,18 @@ C --> D[Architecture Symfony]
 D --> E[Développement]
 ```
 
----
+<br>
 
-# Ce que j'ai réalisé
+<div class="grid grid-cols-2 gap-8">
+<div>
 
 ### Analyse métier
 
 * Compréhension des usages
 * Identification des fonctionnalités
+
+</div>
+<div>
 
 ### Conception
 
@@ -106,15 +162,16 @@ D --> E[Développement]
 * Modèle de données
 * Interfaces utilisateur
 
-### Développement
-
-* Backend Symfony
-* Base de données
-* Fonctionnalités métier
+</div>
+</div>
 
 ---
 
-# Résultat final
+# Développement et réalisation
+
+De la conception au développement de l'application finale
+
+<br>
 
 ```mermaid
 flowchart LR
@@ -127,15 +184,23 @@ B --> C[Rédaction]
 C --> D[Publication dans le journal]
 ```
 
-### Application finalisée et utilisée
+<br><br>
+
+### Développement
+
+* Backend Symfony
+* Base de données optimisée
+* Fonctionnalités métier
 
 ---
+layout: image-left
+image: images/widget-elementor-settings.png
+backgroundSize: contain
+---
 
-# Projet complémentaire
+# Projet complémentaire - WordPress
 
-## Développement WordPress
-
-### Widget Elementor personnalisé
+Développement d'un widget Elementor personnalisé
 
 Fonctionnalités :
 
@@ -143,6 +208,10 @@ Fonctionnalités :
 * liste d'identifiants personnalisée
 * scan automatique de la page
 * navigation simplifiée
+
+---
+
+
 
 ---
 

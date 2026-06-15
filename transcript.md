@@ -98,18 +98,7 @@ Ce widget peut fonctionner de deux manières :
 Cette fonctionnalité améliore la navigation sur les pages contenant beaucoup de contenu et facilite l'expérience
 utilisateur.
 
-## Slide 8 - Résultats obtenus
-
-À l'issue de mon stage, la plateforme Symfony a été entièrement développée et le projet a pu être finalisé.
-
-L'application répond désormais aux besoins identifiés avec les utilisateurs et permet aux correspondants des communes
-ainsi qu'à la rédaction de disposer d'un outil moderne et adapté à leurs usages.
-
-Le widget WordPress développé a également été intégré et utilisé dans la nouvelle version du site de la collectivité.
-
-Ces réalisations ont eu un impact concret puisqu'elles répondent à des besoins réels au sein de la collectivité.
-
-## Slide 9 - Compétences développées
+## Slide 8 - Compétences développées
 
 Ce stage m'a permis de développer de nombreuses compétences techniques.
 
@@ -124,6 +113,17 @@ J'ai développé mes capacités d'analyse en reconstituant les besoins à partir
 
 J'ai également amélioré mes compétences en communication en collaborant régulièrement avec des interlocuteurs non
 techniques afin de comprendre leurs attentes et de valider les solutions proposées.
+
+## Slide 9 - Résultats obtenus
+
+À l'issue de mon stage, la plateforme Symfony a été entièrement développée et le projet a pu être finalisé.
+
+L'application répond désormais aux besoins identifiés avec les utilisateurs et permet aux correspondants des communes
+ainsi qu'à la rédaction de disposer d'un outil moderne et adapté à leurs usages.
+
+Le widget WordPress développé a également été intégré et utilisé dans la nouvelle version du site de la collectivité.
+
+Ces réalisations ont eu un impact concret puisqu'elles répondent à des besoins réels au sein de la collectivité.
 
 ## Slide 10 - Conclusion
 
