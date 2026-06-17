@@ -7,234 +7,219 @@ layout: cover
 
 # Rapport de stage
 
-Alès Agglomération - Marc MOSCA
+Alès Agglomération - Stage de 6 mois - Service communication
 
 ---
 
-# Alès Agglomération - Service communication
+# Présentation d'Alès Agglomération
 
-Collectivité territoriale regroupant 71 communes
+Collectivité territoriale regroupant **71 communes**
 
-<br>
-
-<div class="grid grid-cols-2 gap-10">
+<div class="grid grid-cols-2 gap-10 mt-6">
 <div>
 
-### Mission
+Informer les habitants à travers :
 
-Informer les habitants du territoire à travers différents supports de communication.
-
-<br>
-
-### Support principal
-
-- Journal de l'agglomération
-- Site internet & Application mobile
-- Réseaux sociaux
+* Le journal de l'agglomération
+* Le site internet
+* Les réseaux sociaux
 
 </div>
-
 <div>
 
-### Besoin
+Collecter les informations remontées par les communes :
 
-Collecter les informations provenant des différentes communes :
-
-* événements
-* manifestations
-* activités locales
+* Événements
+* Manifestations
+* Activités locales
 
 </div>
 </div>
 
----
-
-# Ma mission principale
-
-Migrer la plateforme de Java JEE vers Symfony
-
-<br>
-
-<div class="grid grid-cols-2 gap-10">
-<div>
-
-### Objectifs
-
-- Moderniser l'application
-- Faciliter sa maintenance
-- Répondre aux besoins actuels des utilisateurs
-
-</div>
-
-<div>
-
-### Fonctionnement
-
-<br>
+<div class="mt-10">
 
 ```mermaid
 flowchart LR
 
-A[Correspondants des communes]
---> B[Plateforme]
+A[Communes]
+--> B[Correspondants]
 
-B --> C[Rédaction]
+B --> C[Service communication]
 
-C --> D[Journal de l'agglomération]
+C --> D[Journal]
 ```
 
 </div>
-</div>
 
 ---
 
-# Un projet avec des contraintes particulières
+# Ma mission
 
-Aucun accès à l'application existante
+Concevoir une nouvelle plateforme métier avec Symfony
 
-<br>
-
-<div class="grid grid-cols-2 gap-8">
-
+<div class="grid grid-cols-2 gap-10 mt-8">
 <div>
 
-### Je n'avais pas :
+### Objectifs :
 
-❌ Le code source
-
-❌ Un environnement de test
-
-❌ Une documentation complète
-
-</div>
-
-<div>
-
-### J'avais uniquement :
-
-✅ Les utilisateurs
-
-✅ Leurs retours
-
-✅ Leurs besoins métier
-
-</div>
-
-</div>
-
----
-
-# Analyse et conception
-
-La démarche que j'ai utilisée pour réaliser le projet
-
-<br>
-
-```mermaid
-flowchart LR
-
-A[Échanges avec la rédaction]
---> B[Analyse des besoins]
-
-B --> C[Conception]
-
-C --> D[Architecture Symfony]
-
-D --> E[Développement]
-```
-
-<br>
-
-<div class="grid grid-cols-2 gap-8">
-<div>
-
-### Analyse métier
-
-* Compréhension des usages
-* Identification des fonctionnalités
+* Moderniser l'application
+* Faciliter sa maintenance
+* Répondre aux besoins des utilisateurs
 
 </div>
 <div>
 
-### Conception
+### Utilisateurs :
 
-* Architecture de l'application
-* Modèle de données
-* Interfaces utilisateur
+* Correspondants des communes
+* Équipe de rédaction
+* Service communication
 
 </div>
 </div>
 
----
-
-# Développement et réalisation
-
-De la conception au développement de l'application finale
-
-<br>
+<div class="mt-16">
 
 ```mermaid
 flowchart LR
 
 A[Correspondants]
---> B[Nouvelle plateforme Symfony]
+--> B[Plateforme]
 
 B --> C[Rédaction]
 
-C --> D[Publication dans le journal]
+C --> D[Journal]
 ```
 
-<br><br>
-
-### Développement
-
-* Backend Symfony
-* Base de données optimisée
-* Fonctionnalités métier
+</div>
 
 ---
-layout: image-left
+
+# Un défi particulier
+
+Au début du stage, je ne pouvais pas analyser l'application existante.
+
+<div class="grid grid-cols-2 gap-10 mt-8">
+<div>
+
+## Je ne disposais pas de
+
+❌ Code source
+
+❌ Environnement fonctionnel
+
+❌ Documentation complète
+
+</div>
+<div>
+
+## Pour avancer
+
+✅ Échanges avec les utilisateurs
+
+✅ Analyse des usages
+
+✅ Compréhension des besoins métier
+
+</div>
+</div>
+
+<div class="mt-8 text-center text-lg">
+
+➡ Comprendre l'existant à travers les utilisateurs
+
+</div>
+
+---
+
+# De l'analyse au développement
+
+Le processus que j'ai utilisé pour concevoir la nouvelle plateforme
+
+<br>
+
+```mermaid
+flowchart LR
+
+A[Échanges utilisateurs]
+--> B[Analyse des besoins]
+
+B --> C[Conception]
+
+C --> D[Développement Symfony]
+
+D --> E[Nouvelle plateforme]
+```
+
+<div class="grid grid-cols-2 gap-10 mt-10">
+<div>
+
+## Analyse & conception
+
+* Identification des besoins
+* Modélisation des données
+* Architecture de l'application
+* Interfaces utilisateur
+
+</div>
+<div>
+
+## Développement
+
+* Application Symfony
+* Fonctionnalités métier
+* Validation avec la rédaction
+* Ajustements continus
+
+</div>
+</div>
+
+---
+layout: image-right
 image: images/widget-elementor-settings.png
 backgroundSize: contain
 ---
 
-# Projet complémentaire - WordPress
+# Projet complémentaire
 
-Développement d'un widget Elementor personnalisé
+Création d'un widget Elementor permettant de générer automatiquement un sommaire.
 
-Fonctionnalités :
+<br>
 
-* génération d'un sommaire automatique
-* liste d'identifiants personnalisée
-* scan automatique de la page
-* navigation simplifiée
+### Fonctionnalités :
+
+* Configuration manuelle
+* Détection automatique des sections
+* Génération des ancres
+* Navigation simplifiée
+
+<br>
+
+### Objectif :
+
+Améliorer l'expérience utilisateur sur les pages contenant beaucoup de contenu.
 
 ---
 
+# Bilan du stage
 
+Tout ce que j'ai appris au cours de mon stage
 
----
-
-# Compétences développées
-
-<div class="grid grid-cols-2 gap-8">
-
+<div class="grid grid-cols-2 gap-10 mt-8">
 <div>
 
-## Techniques
+## Compétences techniques
 
 * Symfony
 * PHP
-* Doctrine
 * WordPress
-* Elementor
 * Architecture web
+* Conception d'applications
 
 </div>
-
 <div>
 
-## Professionnelles
+## Compétences professionnelles
 
 * Autonomie
 * Analyse des besoins
@@ -243,22 +228,20 @@ Fonctionnalités :
 * Résolution de problèmes
 
 </div>
+</div>
+
+<div class="mt-8">
+
+## Ce que j'ai retenu
+
+Comprendre les besoins des utilisateurs est aussi important que le développement lui-même.
 
 </div>
 
 ---
-
-# Ce que cette expérience m'a appris
-
-### Au-delà du développement
-
-* Comprendre les besoins des utilisateurs
-* Concevoir une solution avant de coder
-* Collaborer avec des profils non techniques
-* Transformer un besoin métier en application concrète
-
+layout: center
 ---
 
 # Merci pour votre attention
 
-### Questions ?
+Avez-vous des questions ?
