@@ -71,20 +71,12 @@ J'ai notamment travaillé sur :
 
 Cette étape a demandé beaucoup d'autonomie et une forte capacité d'analyse.
 
-## Slide 6 - Développement et réalisation
-
 Une fois la conception validée, j'ai développé la nouvelle plateforme avec Symfony.
-
-L'application permet aujourd'hui aux correspondants des différentes communes de publier facilement les informations
-concernant les événements, manifestations et activités locales.
-
-Ces informations sont ensuite accessibles à la rédaction qui peut les consulter, les organiser et les intégrer dans la
-préparation du journal.
 
 Tout au long du développement, les échanges avec les utilisateurs ont permis de valider les fonctionnalités et d'ajuster
 certains comportements afin de répondre au mieux à leurs besoins réels.
 
-## Slide 7 - Projet complémentaire - WordPress
+## Slide 6 - Projet complémentaire - WordPress
 
 En parallèle de ce projet principal, j'ai également réalisé un développement sous WordPress.
 
@@ -98,7 +90,7 @@ Ce widget peut fonctionner de deux manières :
 Cette fonctionnalité améliore la navigation sur les pages contenant beaucoup de contenu et facilite l'expérience
 utilisateur.
 
-## Slide 8 - Compétences développées
+## Slide 7 - Compétences développées
 
 Ce stage m'a permis de développer de nombreuses compétences techniques.
 
@@ -114,7 +106,7 @@ J'ai développé mes capacités d'analyse en reconstituant les besoins à partir
 J'ai également amélioré mes compétences en communication en collaborant régulièrement avec des interlocuteurs non
 techniques afin de comprendre leurs attentes et de valider les solutions proposées.
 
-## Slide 9 - Conclusion
+## Slide 8 - Conclusion
 
 Pour conclure, ce stage de six mois à Alès Agglomération a été une expérience particulièrement enrichissante.
 
