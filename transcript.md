@@ -7,8 +7,8 @@ mon stage.
 
 Bonjour,
 
-Je m'appelle Marc MOSCA et je vais vous présenter mon stage de six mois réalisé au sein d'Alès Agglomération, au sein
-du service communication.
+Je m'appelle Marc MOSCA et je vais vous présenter mon stage de six mois réalisé au sein d'Alès Agglomération dans le
+service communication.
 
 Durant cette période, j'ai principalement travaillé sur la refonte complète d'une application métier utilisée par les
 correspondants des communes de l'agglomération et la rédaction du journal de l'agglomération. J'ai également réalisé un
@@ -114,18 +114,7 @@ J'ai développé mes capacités d'analyse en reconstituant les besoins à partir
 J'ai également amélioré mes compétences en communication en collaborant régulièrement avec des interlocuteurs non
 techniques afin de comprendre leurs attentes et de valider les solutions proposées.
 
-## Slide 9 - Résultats obtenus
-
-À l'issue de mon stage, la plateforme Symfony a été entièrement développée et le projet a pu être finalisé.
-
-L'application répond désormais aux besoins identifiés avec les utilisateurs et permet aux correspondants des communes
-ainsi qu'à la rédaction de disposer d'un outil moderne et adapté à leurs usages.
-
-Le widget WordPress développé a également été intégré et utilisé dans la nouvelle version du site de la collectivité.
-
-Ces réalisations ont eu un impact concret puisqu'elles répondent à des besoins réels au sein de la collectivité.
-
-## Slide 10 - Conclusion
+## Slide 9 - Conclusion
 
 Pour conclure, ce stage de six mois à Alès Agglomération a été une expérience particulièrement enrichissante.
 
